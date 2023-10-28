@@ -80,7 +80,7 @@ ML in the real world is about software engineering and Applied Maths
   - Model Validation (Offline)
 - Model Production
   - Serving and Hosting
-  - Online Evaluation
+  - Deployment and Online Evaluation
     - AB Testing (Frequentist & Bayesian)
     - Multi-Armed Bandit
     - Impact Estimation
