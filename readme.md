@@ -1,4 +1,4 @@
-# machine-learning-roadmap
+# machine-learning-engineer-roadmap
 
 ML in the real world is about software engineering and Applied Maths
 
@@ -63,6 +63,11 @@ ML in the real world is about software engineering and Applied Maths
 - Collaborative and Content-Based Filtering
 - Learning to Rank
 
+## Reinforcement Learning
+- Value-Based Method
+- Policy Based Method
+- Actor-Critic
+
 ## Large Scale Practical ML
 - Data Support / Data Engineering
   - Data Ingestion
@@ -98,4 +103,5 @@ ML in the real world is about software engineering and Applied Maths
 - Design FedEx's Damage Shipment Prediction
 - Design General Conversation (Chatgpt) System
 - Design a Handwritten OCR System
-- Design a Real-Time Financial Advisor System 
+- Design a Real-Time Financial Advisor System
+- Design zomato's Kitchen Preparation Time System
