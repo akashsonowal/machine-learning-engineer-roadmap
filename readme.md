@@ -11,7 +11,8 @@ ML in the real world is about software engineering and Applied Maths
 - Styling, Testing
 - CI/CD
 - Automation Jobs (Airflow)
-- Services (APIs, Container Deployments) 
+- Services (APIs, Container Deployments)
+- Cloud (AWS/GCP/Azure)
 
 ## Basic ML
 - Fundamentals
