@@ -2,7 +2,7 @@
 
 ML in the real world is about software engineering and Applied Maths
 
-## Basic SWE
+## [1] Basic SWE
 - Programming Languages (Python)
 - Object Oriented Programming
 - Data Structures and Algorithms
@@ -15,7 +15,7 @@ ML in the real world is about software engineering and Applied Maths
 - Services (APIs, Container Deployments)
 - Cloud (AWS/GCP/Azure)
 
-## Basic ML
+## [2.1] Basic ML
 - Fundamentals
   - What is ML?
     - Input and Output
@@ -51,7 +51,7 @@ ML in the real world is about software engineering and Applied Maths
   - Singular Value Decomposition
   - Gaussian Mixture Model
   
-## Deep Learning
+## [2.2] Deep Learning
 - Neural Networks
 - Convolution Neural Networks
 - Generative Adversarial Networks
@@ -60,16 +60,16 @@ ML in the real world is about software engineering and Applied Maths
 - Diffusion Models
 - Graph Neural Networks
 
-## Recommendation Systems
+## [2.3] Recommendation Systems
 - Collaborative and Content-Based Filtering
 - Learning to Rank
 
-## Reinforcement Learning
+## [2.4] Reinforcement Learning
 - Value-Based Method
 - Policy Based Method
 - Actor-Critic
 
-## Large Scale Practical ML
+## [3] Large Scale Practical ML
 - Data Support / Data Engineering
   - Data Ingestion
   - Data Storage
@@ -86,7 +86,7 @@ ML in the real world is about software engineering and Applied Maths
     - Multi-Armed Bandit
     - Impact Estimation
 
-## ML System Design
+## [4] ML System Design
 - Design an ML Platform
 - Design a Facebook Photo Tagging System
 - Design Amazon Alexa
