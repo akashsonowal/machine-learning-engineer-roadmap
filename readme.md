@@ -96,3 +96,6 @@ ML in the real world is about software engineering and Applied Maths
 - Design a Personalized News Feed
 - Design Linkedin's People You May Know
 - Design FedEx's Damage Shipment Prediction
+- Design General Conversation (Chatgpt) System
+- Design a Handwritten OCR System
+- Design a Real-Time Financial Advisor System 
