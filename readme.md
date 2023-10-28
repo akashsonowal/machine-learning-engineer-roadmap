@@ -53,7 +53,7 @@ ML in the real world is about software engineering and Applied Maths
 ## Deep Learning
 - Neural Networks
 - Convolution Neural Networks
-- Generative Neural Networks
+- Generative Adversarial Networks
 - Recurrent Neural Networks
 - Large Language Models (Transformers)
 - Diffusion Models
