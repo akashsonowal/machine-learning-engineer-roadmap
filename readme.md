@@ -1,6 +1,23 @@
 # machine-learning-roadmap
 
 
+## Large Scale Practical ML
+- Data Support / Data Engineering
+  - Data Ingestion
+  - Data Storage
+  - Data Processing
+  - Processing Orchestration
+- Model Development
+  - Workspaces
+  - Distributed Model Training
+  - Model Validation (Offline)
+- Model Production
+  - Serving and Hosting
+  - Online Evaluation
+    - AB Testing (Frequentist & Bayesian)
+    - Multi-Armed Bandit
+    - Impact Estimation
+
 ## ML System Design
 - Design an ML Platform
 - Design a Facebook Photo Tagging System
