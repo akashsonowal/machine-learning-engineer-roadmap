@@ -6,7 +6,7 @@ ML in the real world is about software engineering and Applied Maths
 - Programming Languages (Python)
 - Object Oriented Programming
 - Data Structures and Algorithms
-- Frameworks (sklearn, PyTorch, PySpark)
+- Frameworks (pandas, numpy, sklearn, PyTorch, PySpark)
 - Scripting and CLI
 - Styling, Testing
 - CI/CD
