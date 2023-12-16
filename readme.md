@@ -1,5 +1,13 @@
 # machine-learning-engineer-roadmap
 
+## Advanced Targets
+- Kernel Programming (C/C++/CUDA) for optimization
+- optimization techniques for model performance enhancements, including quantization, distillation, sparsity, streaming, and caching.
+- Integrate and tailor frameworks like PyTorch, TensorFlow, DeepSpeed, and FSDP to advance super-fast model training and inference.
+- Advance the deployment infrastructure with MLOps frameworks such as KubeFlow, MosaicML, Anyscale, and Terraform, ensuring robust development and deployment cycles.
+- AI training job scheduling, orchestration, and management via SLURM and Kubeflow.
+- 
+
 ML in the real world is about software engineering and Applied Maths
 
 ## [1] Basic SWE
